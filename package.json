@@ -1,0 +1,14 @@
+{
+    "name": "adeorder",
+    "private": true,
+    "scripts": {
+        "start": "MONGO_URL=mongodb://adeorder:ad%40123456@ds053126.mlab.com:53126/heroku_5wb7h778 meteor run"
+    },
+    "dependencies": {
+        "@babel/runtime": "^7.1.5",
+        "meteor-node-stubs": "^0.4.1",
+        "mongodb": "^3.1.10",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    }
+}
